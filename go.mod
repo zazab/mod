@@ -1,4 +1,4 @@
-module github.com/marwan-at-work/mod
+module github.com/zazab/mod
 
 require (
 	github.com/PuerkitoBio/goquery v1.4.1
@@ -12,3 +12,5 @@ require (
 	golang.org/x/tools v0.0.0-20180824175216-6c1c5e93cdc1
 	gopkg.in/urfave/cli.v2 v2.0.0-20180128182452-d3ae77c26ac8
 )
+
+go 1.13
